@@ -10,6 +10,10 @@ This project implements a parser for Tcl, following the official [Summary of Tcl
 - Multi-language bindings: C, Go, Node.js, Python, Rust, Swift, and Zig
 - Suitable for use in editors, IDEs, and code analysis tools
 
+## References
+- [Summary of Tcl language syntax](https://www.tcl-lang.org/man/tcl8.6.13/TclCmd/Tcl.htm)
+- [Tree-sitter documentation](https://tree-sitter.github.io/tree-sitter/)
+
 ## License
 MIT License
 
